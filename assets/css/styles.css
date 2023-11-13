@@ -21,6 +21,7 @@
       -> Copy the color mode (HSL)
   */
 
+  /* Colors to be changed dynamically if you need to customise */
   --hue: 1;
   --first-color: hsl(var(--hue), 100%, 40%);
   --first-color-alt: hsl(var(--hue), 56%, 35%);
